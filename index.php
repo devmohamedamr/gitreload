@@ -4,4 +4,3 @@
 echo "git";
 
 
-echo "mohamed";
